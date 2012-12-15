@@ -42,4 +42,24 @@ For this reason, the original tool is kind of CPU hungry (it typically consumes 
 
 .NET is a JIT (Just-In-Time) compiler, which means the code is compiled ONCE and then executed natively - it is therefore much faster and requires much less CPU (the .NET version usually indicated between 0 and 1% of CPU usage in Task Manager).    
 
- 
+
+Is this allowed?
+================
+
+This is the official response from ArenaNet on the original tool:
+
+> Our general statement is that anything that gives advantage is forbidden. 
+> There are many utilities that help the player without taking a hit on others, without, for instance, being a detriment to the other players in a match. 
+> TexMod is one example of a program that doesn't really give anyone an advantage over someone else. I've heard about certain programs that help disabled players, and those seem just fine, too. 
+> And of course there are others. We can't say "Sure, use this and that and that other thing" because that's tantamount to "approval," but we do recognize the distinction between advantage-giving programs and those that simply make it easier to play the game under specific circumstances.   
+
+The original and this version do not give player an unfair advantage, cannot be used for botting or game automation, nor do they modify the Guild Wars 2 client in any way.
+
+When can I test it?
+===================
+
+Right now, the goal is to test the tool with a limited number of people to make sure all the T's are crossed, so there will probably still be some minor issues. 
+
+At this point, feedback from people that use non-US keyboards and non-standard GW2 installs (e.g. Steam) would be most welcome.
+
+   
