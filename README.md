@@ -58,7 +58,7 @@ The original and this version do not give player an unfair advantage, cannot be 
 Can I use it?
 =============
 
-Right now, the goal is to test the tool with a limited number of people to make sure all the T's are crossed. Feel free to contact me for a beta 
+Right now, the goal is to test the tool with a limited number of people to make sure all the T's are crossed. An installer is available and will auto-update when new builds are available.
 
 At this point, feedback from people that use non-US keyboards and non-standard GW2 installs (e.g. Steam) would be most welcome.
 
