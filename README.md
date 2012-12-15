@@ -1,7 +1,7 @@
 GW2CombatMode
 =============
 
-![Screen Shot](screenshot.jpg)
+<img src="GW2CombatMode/blob/master/screenshot.jpg"/>
 
 This is a C# .NET tool based on the Guild Wars 2 Combat Mode MOD & idea by Michael Puckett & Jayce. It's currently in closed BETA.
 
