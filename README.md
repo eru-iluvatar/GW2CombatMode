@@ -55,10 +55,10 @@ This is the official response from ArenaNet on the original tool:
 
 The original and this version do not give player an unfair advantage, cannot be used for botting or game automation, nor do they modify the Guild Wars 2 client in any way.
 
-When can I test it?
-===================
+Can I use it?
+=============
 
-Right now, the goal is to test the tool with a limited number of people to make sure all the T's are crossed, so there will probably still be some minor issues. 
+Right now, the goal is to test the tool with a limited number of people to make sure all the T's are crossed. Feel free to contact me for a beta 
 
 At this point, feedback from people that use non-US keyboards and non-standard GW2 installs (e.g. Steam) would be most welcome.
 
