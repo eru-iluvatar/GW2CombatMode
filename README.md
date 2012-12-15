@@ -1,7 +1,7 @@
 GW2CombatMode
 =============
 
-<img src="GW2CombatMode/blob/master/screenshot.jpg"/>
+![Screenshot](https://github.com/eru-iluvatar/GW2CombatMode/blob/master/screenshot.jpg?raw=true)
 
 This is a C# .NET tool based on the Guild Wars 2 Combat Mode MOD & idea by Michael Puckett & Jayce. It's currently in closed BETA.
 
